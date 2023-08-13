@@ -1,4 +1,4 @@
-print("hello pradnya !")
+print("hello !")
 print('*'*10)
 price=10
 price=20
